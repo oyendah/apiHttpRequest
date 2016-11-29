@@ -23,7 +23,8 @@ rl.question('username: ', (answer) => {
 		if (err || !res.ok) {
 			console.log('Oh no! error');
 		} else {
-			console.log('yay got ' + JSON.stringify(res.body));
+			
+			console.log('yay got ' + JSON.stringify(res.body, null, 4));
 		}
 	});
 
