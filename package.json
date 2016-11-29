@@ -1,0 +1,19 @@
+{
+  "name": "apihttprequest",
+  "version": "1.0.0",
+  "description": "A simple command line application that consumes a Public API using a HTTP client library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyendah/apihttprequest.git"
+  },
+  "author": "Subair Oyindamola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyendah/apihttprequest/issues"
+  },
+  "homepage": "https://github.com/oyendah/apihttprequest#readme"
+}
